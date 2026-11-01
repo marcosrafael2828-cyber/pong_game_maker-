@@ -1,3 +1,13 @@
+# Pong Game - GameMaker
+
+## Sobre o projeto
+
+Recriação do clássico jogo Pong, desenvolvida no GameMaker utilizando GML (GameMaker Language).
+
+O projeto foi realizado durante o curso da None Class, como parte dos meus estudos em programação e desenvolvimento de jogos.
+
+O jogo possui modos para 1 e 2 jogadores.
+
 ## Modos de jogo
 
 O projeto possui dois modos de jogo:
