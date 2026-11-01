@@ -26,4 +26,4 @@ Jogo desenvolvido durante o curso da None Class, com foco na prática de lógica
 
 ## Imagem do jogo
 
-![Menu principal do Pong](menu-pong.jpg)
+![Menu principal do Pong](pong-menu.jpg)
