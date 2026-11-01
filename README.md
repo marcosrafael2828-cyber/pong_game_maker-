@@ -23,3 +23,7 @@ O projeto possui dois modos de jogo:
 ## Origem do projeto
 
 Jogo desenvolvido durante o curso da None Class, com foco na prática de lógica de programação e desenvolvimento de jogos.
+
+## Imagem do jogo
+
+![Menu principal do Pong](menu-pong.jpg)
